@@ -1,0 +1,403 @@
+.maj-15 {
+
+    background-size: cover;
+
+    width: 100%;
+
+    animation-name: next;
+
+    animation-duration: 20s;
+
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes next {
+
+    0% {
+
+        background-image: url("../media/img/galleri/15 maj/emetropia_1.10.1.png");
+
+    }
+
+    10% {
+
+        background-image: url("../media/img/galleri/15 maj/rurrel_1.4.1.png");
+
+    }
+
+    20% {
+
+        background-image: url("../media/img/galleri/15 maj/poppo_1.2.1.png");
+
+    }
+
+    30% {
+
+        background-image: url("../media/img/galleri/15 maj/ollollo_1.10.1.png");
+
+    }
+
+    40% {
+
+        background-image: url("../media/img/galleri/15 maj/erter_1.9.3.png");
+
+    }
+
+    50% {
+
+        background-image: url("../media/img/galleri/15 maj/käk_1.5.3.png");
+
+    }
+
+    60% {
+
+        background-image: url("../media/img/galleri/15 maj/kontrull_1.1.1.png");
+
+    }
+
+    70% {
+
+        background-image: url("../media/img/galleri/15 maj/poppo_1.2.1.png");
+
+    }
+
+    80% {
+
+        background-image: url("../media/img/galleri/15 maj/Untitled_1.4.3.png");
+
+    }
+
+    90% {
+
+        background-image: url("../media/img/galleri/15 maj/erter_1.9.3.png");
+
+    }
+
+    100% {
+
+        background-image: url("../media/img/galleri/15 maj/rurrel_1.4.1.png");
+
+    }
+
+}
+
+.feb-8 {
+
+    background-size: cover;
+
+    width: 100%;
+
+    animation: infinite next1 20s;
+
+}
+
+@keyframes next1 {
+
+    0% {
+
+        background-image: url("../media/img/galleri/8 februari/84333688_800224820459612_2618580339907362816_n.jpg");
+
+    }
+
+    10% {
+
+        background-image: url("../media/img/galleri/8 februari/84724540_124434525568452_9218018454609592320_n.jpg");
+
+    }
+
+    20% {
+
+        background-image: url("../media/img/galleri/8 februari/84333688_800224820459612_2618580339907362816_n.jpg");
+
+    }
+
+    30% {
+
+        background-image: url("../media/img/galleri/8 februari/86179239_645082459578542_62168337349607424_n.jpg");
+
+    }
+
+    40% {
+
+        background-image: url("../media/img/galleri/8 februari/86730120_3180398448656037_5890809059648471040_o.jpg");
+
+    }
+
+    50% {
+
+        background-image: url("../media/img/galleri/8 februari/86696486_3180398965322652_4350534028097486848_o___serialized1.jpg");
+
+    }
+
+    60% {
+
+        background-image: url("../media/img/galleri/8 februari/84724540_124434525568452_9218018454609592320_n.jpg");
+
+    }
+
+    70% {
+
+        background-image: url("../media/img/galleri/8 februari/84333688_800224820459612_2618580339907362816_n.jpg");
+
+    }
+
+    80% {
+
+        background-image: url("../media/img/galleri/8 februari/86179239_645082459578542_62168337349607424_n.jpg");
+
+    }
+
+    90% {
+
+        background-image: url("../media/img/galleri/8 februari/86696486_3180398965322652_4350534028097486848_o___serialized1.jpg");
+
+    }
+
+    100% {
+
+        background-image: url("../media/img/galleri/8 februari/84724540_124434525568452_9218018454609592320_n.jpg");
+
+    }
+
+}
+
+.feb-1{
+
+    background-size: cover;
+  
+      width: 100%;
+  
+    animation: infinite next2 20s;
+  }
+
+  @keyframes next2 {
+
+    0% {
+
+        background-image: url("../media/img/galleri/1 februari/87387354_1051768181868336_2535061282042675200_n.jpg");
+
+    }
+
+    10% {
+
+        background-image: url("../media/img/galleri/1 februari/87839165_198541541241573_6743137416799846400_n.jpg");
+
+    }
+
+    20% {
+
+        background-image: url("../media/img/galleri/1 februari/88240617_243652080002712_4690416827707162624_n.jpg");
+
+    }
+
+    30% {
+
+        background-image: url("../media/img/galleri/1 februari/88240617_243652080002712_4690416827707162624_n___serialized1.jpg");
+
+    }
+
+    40% {
+
+        background-image: url("../media/img/galleri/1 februari/88240617_243652080002712_4690416827707162624_n___serialized2.jpg");
+
+    }
+
+    50% {
+
+        background-image: url("../media/img/galleri/1 februari/88310414_2502332790016479_9111805811755057152_n.jpg");
+
+    }
+
+    60% {
+
+        background-image: url("../media/img/galleri/1 februari/88336069_3003079989722202_2386782569849946112_n.jpg");
+
+    }
+
+    70% {
+
+        background-image: url("../media/img/galleri/1 februari/89829981_3099563590062877_793575931846328320_n.jpg");
+
+    }
+
+    80% {
+
+        background-image: url("../media/img/galleri/1 februari/89874427_2808529239261778_3489211876284301312_n.jpg");
+
+    }
+
+    90% {
+
+        background-image: url("../media/img/galleri/1 februari/89874427_2808529239261778_3489211876284301312_n___serialized1.jpg");
+
+    }
+
+    100% {
+
+        background-image: url("../media/img/galleri/1 februari/87839165_198541541241573_6743137416799846400_n.jpg");
+
+    }
+
+}
+
+.dec-21{
+
+    background-size: cover;
+  
+      width: 100%;
+  
+    animation: infinite next3 20s;
+  
+  }
+
+  @keyframes next3 {
+
+    0% {
+
+        background-image: url("../media/img/galleri/21 december/79502278_463186974387934_6434634721996570624_n.jpg");
+
+    }
+
+    10% {
+
+        background-image: url("../media/img/galleri/21 december/79761686_794399907671614_7665420955727953920_n.jpg");
+
+    }
+
+    20% {
+
+        background-image: url("../media/img/galleri/21 december/80100104_817446585366990_4478161373594910720_n.jpg");
+
+    }
+
+    30% {
+
+        background-image: url("../media/img/galleri/21 december/80206594_448538515827617_4294719549401464832_n.jpg");
+
+    }
+
+    40% {
+
+        background-image: url("../media/img/galleri/21 december/80290567_470041410372412_362080062473764864_n.jpg");
+
+    }
+
+    50% {
+
+        background-image: url("../media/img/galleri/21 december/81060717_440393650204275_1200819941964513280_n.jpg");
+
+    }
+
+    60% {
+
+        background-image: url("../media/img/galleri/21 december/81211093_468442407204933_600388586340089856_n.jpg");
+
+    }
+
+    70% {
+
+        background-image: url("../media/img/galleri/21 december/79502278_463186974387934_6434634721996570624_n.jpg");
+
+    }
+
+    80% {
+
+        background-image: url("../media/img/galleri/21 december/79761686_794399907671614_7665420955727953920_n.jpg");
+
+    }
+
+    90% {
+
+        background-image: url("../media/img/galleri/21 december/80100104_817446585366990_4478161373594910720_n.jpg");
+
+    }
+
+    100% {
+
+        background-image: url("../media/img/galleri/21 december/80206594_448538515827617_4294719549401464832_n.jpg");
+
+    }
+
+}
+
+.nov-23{
+
+    background-size: cover;
+ 
+     width: 100%;
+ 
+   animation: infinite next4 20s;
+ 
+ }
+
+ @keyframes next4 {
+
+    0% {
+
+        background-image: url("../media/img/galleri/23 november/23\,11\ WR.jpg");
+
+    }
+
+    10% {
+
+        background-image: url("../media/img/galleri/23 november/75282202_2404685246310512_7749987169569079296_n.jpg");
+
+    }
+
+    20% {
+
+        background-image: url("../media/img/galleri/23 november/75564556_2573825979379911_6003274015244812288_n.jpg");
+
+    }
+
+    30% {
+
+        background-image: url("../media/img/galleri/23 november/76705234_2702736726432178_2944276725099397120_n.jpg");
+
+    }
+
+    40% {
+
+        background-image: url("../media/img/galleri/23 november/76751712_2590882461027371_8516245528864882688_n.jpg");
+
+    }
+
+    50% {
+
+        background-image: url("../media/img/galleri/23 november/77026053_1019021158436202_2136855592512258048_n.jpg");
+
+    }
+
+    60% {
+
+        background-image: url("../media/img/galleri/23 november/78426080_567057257439062_5769509545302818816_n.jpg");
+
+    }
+
+    70% {
+
+        background-image: url("../media/img/galleri/23 november/78692547_973110939742943_2246655439297052672_n.jpg");
+
+    }
+
+    80% {
+
+        background-image: url("../media/img/galleri/23 november/23\,11\ WR.jpg");
+
+    }
+
+    90% {
+
+        background-image: url("../media/img/galleri/23 november/75282202_2404685246310512_7749987169569079296_n.jpg");
+
+    }
+
+    100% {
+
+        background-image: url("../media/img/galleri/23 november/75564556_2573825979379911_6003274015244812288_n.jpg");
+
+    }
+
+}
+
